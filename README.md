@@ -36,7 +36,7 @@ Currently working on the **Self-Diagnosing Solar Array Project** — combining d
 ---
 
 ### 📈 GitHub Stats
-![Tornshorts' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tornshorts&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tornshorts&layout=compact&theme=radical)
 
 ---
