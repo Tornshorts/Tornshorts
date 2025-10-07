@@ -48,7 +48,7 @@ Currently working on the **Self-Diagnosing Solar Array Project** — combining d
 
 ### 🌍 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alexander-kawewa-763a642a5)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Tornshorts)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://alex-portfolio-pyqk.onrender.com/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-ff9800?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.kawewaalex@gmail.com)
 
 ---
