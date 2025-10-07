@@ -2,7 +2,7 @@
 
 # 👋🏾 Hey, I'm Alexander Kawewa — aka Tornshorts
 
-### 🧠 he/him | Full-Stack Developer · AI/ML Enthusiast · Data Explorer · Digital Designer  
+### 🧠 | Full-Stack Developer · AI/ML Enthusiast · Data Explorer · Digital Designer  
 
 I’m a tech builder who loves blending **code, creativity, and curiosity**. Whether it’s designing clean user interfaces or training machine learning models, I’m all about solving real-world problems with smart, scalable tech.
 
